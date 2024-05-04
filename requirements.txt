@@ -1,0 +1,10 @@
+backoff
+certifi
+charset-normalizer
+colorama
+idna
+opencage
+phonenumbers
+python-dotenv
+requests
+urllib3
